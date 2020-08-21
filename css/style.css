@@ -1,0 +1,31 @@
+.rightNav{
+  float: right;
+}
+.lastTwo{
+  margin-left: 5px;
+}
+#logoText{
+  float: left;
+  margin-left: 5px;
+}
+hr {
+  height: 20px;
+}
+.wrapper{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#chocoPic{
+  margin-top: 25px;
+  width: 100%;
+}
+#list{
+  height: auto;
+  width: 100%;
+}
+ul{
+  float: left;
+}
+.printRight{
+  float: right;
+}
